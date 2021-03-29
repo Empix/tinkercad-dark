@@ -4,7 +4,7 @@
 @version        1.0.0
 @preprocessor   stylus
 @homepageURL    https://github.com/Empix/tinkercad-dark
-@updateURL      https://github.com/Empix/tinkercad-dark/raw/main/tinkercad-dark.user.css
+@updateURL      https://raw.githubusercontent.com/Empix/tinkercad-dark/main/tinkercad-dark.user.css
 @author         Empix
 
 @var checkbox dark-mode "Dark Mode" 1
