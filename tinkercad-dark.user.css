@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Tinkercad Dark
 @namespace      TinkercadDark
-@version        1.0.2
+@version        1.1.0
 @preprocessor   stylus
 @homepageURL    https://github.com/Empix/tinkercad-dark
 @updateURL      https://raw.githubusercontent.com/Empix/tinkercad-dark/main/tinkercad-dark.user.css
@@ -6634,6 +6634,14 @@
 
         .code_editor__debugger__top__icon svg * {
             fill: #fff;
+        }
+        
+        .loading {
+            background-color: #333;
+        }
+
+        .circuits_spinner > div {
+            background-color: #fff;
         }
     }
 
